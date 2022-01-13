@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "discord music bot for skull squad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eye0212/discordmusicbot.git"
+  },
+  "author": "Eugene Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eye0212/discordmusicbot/issues"
+  },
+  "homepage": "https://github.com/eye0212/discordmusicbot#readme"
+}
